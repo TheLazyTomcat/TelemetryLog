@@ -31,7 +31,7 @@ type
     RawSimulationTimestamp:       scs_timestamp_t;
     RawPausedSimulationTimestamp: scs_timestamp_t;
     OrientationAvailable:         Boolean;
-	  Heading:                      Single;
+    Heading:                      Single;
     Pitch:                        Single;
     Roll:                         Single;
     Speed:                        Single;
